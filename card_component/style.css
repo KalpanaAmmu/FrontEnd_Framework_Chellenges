@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(36, 20, 80);
+}
+.co{
+    background:indigo;
+}
+.im{
+content: "";
+left:0;
+right: 0;
+top: 0;
+bottom: 0;
+background-image: linear-gradient(to bottom right,black,black);
+opacity: 0.7;
+}
+img{
+    width: 110%;
+    margin-left: -14px;
+    height: 100%;
+    background-image: linear-gradient(to bottom right,black,black);
+opacity: 0.7;
+
+}
